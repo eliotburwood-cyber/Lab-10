@@ -1,9 +1,11 @@
 <#                                                                  
 .SYNOPSIS
-    Brief description of what the script does.
+     This creates and configures a secure GPO for the organizational unit.
 
 .DESCRIPTION
-    Detailed explanation of the script's purpose, functionality, and any important notes.
+    This script shows how links are given to a OU, and applies basic 
+    security settings and disabling them. Also, it also gives specific gorup the 
+    permission and generates reports for documentation.
 
 .PARAMETER <ParameterName>
     Description of the parameter.
