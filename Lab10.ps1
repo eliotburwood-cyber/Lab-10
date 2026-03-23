@@ -19,7 +19,7 @@
     Last Modified: 3/17/2026
 
 .LINK
-    https://link-to-related-docs-or-repo
+    https://github.com/eliotburwood-cyber/Lab-10
 #>
 
 Function Get-GPO {
